@@ -1,4 +1,5 @@
 // 6-update
+
 printjson(
   db.school.updateMany(
     { name: "Holberton school" },
